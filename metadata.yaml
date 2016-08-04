@@ -1,0 +1,27 @@
+_repo: What-Every-Woman-Knows_5654
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrie, J. M. (James Matthew)
+    alias: Barrie, James Matthew
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Drama'
+- !lcc 'PR'
+- !lcsh 'Comedies'
+- GITenberg
+title: What Every Woman Knows
+url: http://www.gutenberg.org/ebooks/5654
